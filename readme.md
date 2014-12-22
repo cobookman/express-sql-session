@@ -1,4 +1,5 @@
 # express-sql-session
+[![Build Status](https://api.travis-ci.org/cobookman/express-sql-session.svg?branch=master)](https://travis-ci.org/cobookman/express-sql-session)
 
 A SQL session store for [express.js](http://expressjs.com/)
 
