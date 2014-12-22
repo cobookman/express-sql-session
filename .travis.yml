@@ -1,3 +1,4 @@
+sudo: false
 before_script:
     - "mysql -e 'DROP DATABASE IF EXISTS session_test; CREATE DATABASE session_test;'"
 
